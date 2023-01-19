@@ -15,7 +15,7 @@ CodePro is an EdTech startup that had a phenomenal seed A funding round. It used
 At the initial stage, customer acquisition cost is required to be high in companies. But as their businesses grow, these companies start focussing on profitability. Many companies first offer their services for free or provide offers at the initial stages but later start charging customers for these services.
 
 Businesses want to reduce their customer acquisition costs in the long run. The high customer acquisition cost is due to following reasons:
-  * Improper targeting
+        * Improper targeting
 	* High competition
 	* Inefficient conversion
 
